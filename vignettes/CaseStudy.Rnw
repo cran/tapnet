@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{pdfpages}
+%\VignetteIndexEntry{Case Study}
+%\VignetteKeywords{tapnet, phylogeny, network}
+%\VignettePackage{tapnet}
+
+\begin{document}
+\includepdf[pages=-, fitpaper=true]{CaseStudy_static.pdf}
+\end{document}
